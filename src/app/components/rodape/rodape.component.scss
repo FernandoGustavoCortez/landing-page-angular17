@@ -1,0 +1,12 @@
+.rodape {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .redes-sociais {
+    display: flex;
+    gap: 20px;
+    img {
+      cursor: pointer;
+    }
+  }
+}
